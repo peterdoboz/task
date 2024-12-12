@@ -4,13 +4,13 @@
 Simply run main class to receive the output in the console.
 
 ### Output 
-Terms -- 
-[ List of query terms from rest api ]
-Alerts --
-[ List of query terms from rest api ]
+Terms -- \
+[ List of query terms from rest api ] \
+Alerts -- \
+[ List of query terms from rest api ] \
 
-results ---
-results of the the matcher in following format
+results ---\
+results of the the matcher in following format \
 
 ```json
 [{
